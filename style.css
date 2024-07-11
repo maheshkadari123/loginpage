@@ -60,7 +60,8 @@ input {
 .password-container input {
     width: calc(100% - 30px);
     padding-left: 30px;
-    margin-right:5px;
+    margin-right:10px;
+
 }
 
 
