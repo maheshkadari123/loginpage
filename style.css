@@ -37,7 +37,7 @@ input {
 
 .input-container {
     position: relative;
-    width:90%;
+    width:95%;
 }
 .input-container input {
     width: calc(100% - 30px);
