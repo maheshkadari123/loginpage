@@ -42,7 +42,7 @@ input {
 .input-container input {
     width: calc(100% - 30px);
     padding-left: 30px;
-    margin-right:5px;
+   
 }
 .input-container i {
     position: absolute;
@@ -60,7 +60,7 @@ input {
 .password-container input {
     width: calc(100% - 30px);
     padding-left: 30px;
-    margin-right:10px;
+    
 
 }
 
