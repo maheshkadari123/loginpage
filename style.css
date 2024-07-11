@@ -37,6 +37,7 @@ input {
 
 .input-container {
     position: relative;
+    width:95%;
 }
 .input-container input {
     width: calc(100% - 30px);
@@ -51,6 +52,8 @@ input {
 }
 .password-container {
     position: relative;
+     width:95%;
+    
 }
 
 .password-container input {
